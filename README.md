@@ -64,7 +64,7 @@ Day 20: Window Functions — Aggregate Window Functions
 Day 21: Common Table Expressions (CTEs)
 
 ## Projects Completed During the Challenge
-1. Mini Project — The Great Pizza Analytics Challenge
+### 1. Mini Project — The Great Pizza Analytics Challenge
 
 In this project, I took on the role of a Data Analyst at The Great Pizza, tasked with analyzing pizza sales data to uncover meaningful business insights.
 
